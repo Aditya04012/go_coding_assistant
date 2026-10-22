@@ -1,0 +1,16 @@
+langchain-google-genai
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+pypdf
+tiktoken
+youtube-transcript-api
+transformers
+torch
+sentence-transformers
+langchain-text-splitters
+langchain-chroma
+ddgs
+requests
+python-dotenv
