@@ -85,10 +85,6 @@ TECH STACK
 - GitHub Search: GitHub API
 - Knowledge Source: Your own Go repositories
 
-NO LANGGRAPH REQUIRED
-=====================
-
-LangChain Agent + Tools + RAG
 
 
 
